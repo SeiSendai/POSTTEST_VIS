@@ -1,0 +1,32 @@
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.exe
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.deps.json
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.runtimeconfig.json
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.dll
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.pdb
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.Form1.resources
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.GenerateResource.cache
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfoInputs.cache
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfo.vb
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.CoreCompileInputs.cache
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.dll
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\refint\POSTTEST_1.dll
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.pdb
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.genruntimeconfig.cache
+E:\visual Studio\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\ref\POSTTEST_1.dll
+E:\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.exe
+E:\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.deps.json
+E:\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.runtimeconfig.json
+E:\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.dll
+E:\POSTTEST_VIS\POSTTEST_1\bin\Debug\net10.0-windows\POSTTEST_1.pdb
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.Form1.resources
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.GenerateResource.cache
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfoInputs.cache
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.AssemblyInfo.vb
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.vbproj.CoreCompileInputs.cache
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.dll
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\refint\POSTTEST_1.dll
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.pdb
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\POSTTEST_1.genruntimeconfig.cache
+E:\POSTTEST_VIS\POSTTEST_1\obj\Debug\net10.0-windows\ref\POSTTEST_1.dll
