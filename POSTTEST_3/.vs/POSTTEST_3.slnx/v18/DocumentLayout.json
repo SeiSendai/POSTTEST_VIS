@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\POSTTEST_VIS\\POSTTEST_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|e:\\posttest_vis\\posttest_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|e:\\posttest_vis\\posttest_3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|e:\\posttest_vis\\posttest_3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|e:\\posttest_vis\\posttest_3\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|e:\\posttest_vis\\posttest_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FDC70E3A-1F7A-94B2-1380-5BC4E03236A4}|POSTTEST_3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-14T06:17:15.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-14T06:17:12.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-14T04:46:01.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\POSTTEST_VIS\\POSTTEST_3\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-14T04:45:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "E:\\POSTTEST_VIS\\POSTTEST_3\\Module1.vb",
+              "RelativeDocumentMoniker": "Module1.vb",
+              "ToolTip": "E:\\POSTTEST_VIS\\POSTTEST_3\\Module1.vb",
+              "RelativeToolTip": "Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-14T04:15:05.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

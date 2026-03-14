@@ -1,8 +1,4 @@
-﻿Imports System.Diagnostics.Eventing.Reader
-Imports System.Linq.Expressions
-Imports System.Net.NetworkInformation
-
-Public Class Form1
+﻿Public Class Form1
     Dim total_IP As Double = 0
     Dim Jml_Semester As String = 0
 
